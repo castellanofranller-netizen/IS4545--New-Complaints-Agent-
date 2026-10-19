@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Complaint Triage Assistant",
+  "description": "Clinical-grade intake, severity assessment, risk detection, and escalation routing system for healthcare patient complaints and grievances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
